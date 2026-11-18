@@ -1,0 +1,21 @@
+{
+  "etat": "URL exactes identifiées; binaires non téléchargés localement",
+  "images_officielles": {
+    "index.html": "https://www.lefranc-sa.fr/images/slideshow/accueil-4-lefranc.jpg",
+    "mecanique.html": "https://www.lefranc-sa.fr/images/contenu/activites/mecanique/gauche-mecanique-lefranc.jpg",
+    "hydraulique.html": "https://www.lefranc-sa.fr/images/contenu/activites/hydraulique/gauche-hydraulique-lefranc.jpg",
+    "pneumatique.html": "https://www.lefranc-sa.fr/images/contenu/activites/pneumatique/gauche-pneumatique-lefranc.jpg",
+    "etancheite.html": "https://www.lefranc-sa.fr/images/contenu/activites/etancheite/gauche-etancheite-lefranc.jpg",
+    "complementaires.html": "https://www.lefranc-sa.fr/images/contenu/activites/complementaires/gauche-complementaires-lefranc.jpg",
+    "courroies.html": "https://www.lefranc-sa.fr/images/contenu/activites/courroies/haut-activites-courroies-lefranc.jpg",
+    "publicite_SMC": "https://www.lefranc-sa.fr/images/pub-lefranc4.png"
+  },
+  "autres_photos_diaporama": [
+    "https://www.lefranc-sa.fr/images/slideshow/accueil-1-lefranc.jpg",
+    "https://www.lefranc-sa.fr/images/slideshow/accueil-2-lefranc.jpg",
+    "https://www.lefranc-sa.fr/images/slideshow/accueil-3-lefranc.jpg",
+    "https://www.lefranc-sa.fr/images/slideshow/accueil-4-lefranc.jpg",
+    "https://www.lefranc-sa.fr/images/slideshow/accueil-5-lefranc.jpg",
+    "https://www.lefranc-sa.fr/images/slideshow/accueil-6-lefranc.jpg"
+  ]
+}
